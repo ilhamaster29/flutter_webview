@@ -1,16 +1,26 @@
-# flutter_webview
+# Laporan Praktikum
 
-A new Flutter project.
+## 1. Menambahkan Widget WebView ke Aplikasi Flutter
 
-## Getting Started
+![screenshot](images/running_flutter_progress_bar_webview.png)
+![screenshot](images/running_mainbasket_webview.png)
 
-This project is a starting point for a Flutter application.
+## 2. Menambahkan loading bar
 
-A few resources to get you started if this is your first Flutter project:
+![screenshot](images/running_flutter_progress_bar_webview.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 3. Menambahkan Navigation Controls
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](images/running_flutter_webview_navigation_control.png)
+
+## 4. Menambahkan Menu Button
+
+![screenshot](images/running_flutter_webview_menu_button.png)
+
+## 5. Menambahkan Opsi Cookies
+
+![screenshot](images/running_flutter_webview_cookies.png)
+
+## 6. HTML String
+
+![screenshot](images/running_flutter_webview_html_string.png)
