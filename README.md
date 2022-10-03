@@ -1,5 +1,7 @@
 # Laporan Praktikum
 
+![gif](images/halo.gif)
+
 ## 1. Menambahkan Widget WebView ke Aplikasi Flutter
 
 ![screenshot](images/running_flutter_webview.png)
